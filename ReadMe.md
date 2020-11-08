@@ -1,8 +1,10 @@
 # HopfieldNetwork
 
-This is a simple Python code for those who are interested in implementing the Hopfield Network. We applied this network to store some characters such as "M", "A" and etc. We can also detect noisy characters with this simple network.
+This is a simple Python code for those who are interested in implementing the Hopfield Network. 
+Assume that you have some characters such as "M", "A" and etc. You want to store these characters in the Hopfield Network. One of the major benefits of this network is that you can detect noisy characters !
 
-Hope to enjoy it !!!
+
+Just run the code, learn and enjoy it !!!
 -------------
 You can follow me on Linkedin, thank you for endorsing me in advance! 
 www.linkedin.com/in/NimaMajidi
